@@ -1,0 +1,1 @@
+<?php $hideHeader = false; $hideFooter = false;

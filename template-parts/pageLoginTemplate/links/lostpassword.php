@@ -1,0 +1,1 @@
+<a href="<?php echo wp_lostpassword_url(); ?>" class="u-border-1 u-border-active-palette-2-base u-border-hover-palette-1-base u-btn u-button-style u-login-control u-login-forgot-password u-none u-text-palette-1-base u-btn-2"><?php _e( 'Lost Password' ); ?></a>

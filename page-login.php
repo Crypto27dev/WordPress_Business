@@ -1,0 +1,1 @@
+<?php theme_load_template('Login Template', 'pageLoginTemplate'); ?>
